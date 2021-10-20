@@ -7,11 +7,11 @@ int minmax(int* a, int* min, int* max, int n)
     {
         return 1;
     }
-    if (a[n] > *max)
+    else if(a[n] > *max)
     {
         *max = a[n];
     }
-    if (a[n] < *min)
+    else if(a[n] < *min)
     {
         *min = a[n];
     }
