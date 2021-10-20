@@ -1,0 +1,6 @@
+﻿  Zad2.cpp
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Zad3\Zad2\Zad2.cpp(16,16): warning C4101: 'j': unreferenced local variable
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Zad3\Zad2\Zad2.cpp(180): warning C4715: 'multiplyMatrix': not all control paths return a value
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Zad3\Zad2\Zad2.cpp(101): warning C4715: 'sumMatrix': not all control paths return a value
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Zad3\Zad2\Zad2.cpp(134): warning C4715: 'subMatrix': not all control paths return a value
+  Zad2.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Debug\Zad2.exe
