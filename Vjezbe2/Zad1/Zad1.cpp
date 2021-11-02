@@ -25,6 +25,8 @@ int main()
 	int i, n, min, max;
 	cout << "Lenght of array : ";
 	cin >> n;
+	int& max_ref = max;
+	int& min_ref = min;
 	int* a = new int[n];
 	cout << "Input ellements of array : ";
 	for (i = 0; i < n; i++)
