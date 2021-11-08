@@ -1,0 +1,5 @@
+﻿  Zad2.cpp
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad2\Zad2\Zad2\Zad2.cpp(35,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad2\Zad2\Zad2\Zad2.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad2\Zad2\Zad2\Zad2.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+  Zad2.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad2\Zad2\Debug\Zad2.exe
