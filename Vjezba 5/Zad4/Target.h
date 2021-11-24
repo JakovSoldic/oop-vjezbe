@@ -16,6 +16,6 @@ public:
     void setUpperY(int upperY);
     void setLowerX(int lowerX);
     void setLowerY(int lowerY);
-    bool surfaceArea(int spaceX, int spaceY);
+    bool surfaceArea(int spaceX, int spaceY, Target& b);
 };
 #endif

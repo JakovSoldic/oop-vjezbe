@@ -24,10 +24,10 @@ int main()
     b = new Target[numTargets];
     for (int i = 0; i < numTargets; i++)
     {
-        b[i].setUpperX(rand() % 50 + 1);
-        b[i].setUpperY(rand() % 50 + 1);
-        b[i].setLowerX(rand() % 50 + 1);
-        b[i].setLowerY(rand() % 50 + 1);
+        b[i].setUpperX(30);//(rand() % 50 + 1
+        b[i].setUpperY(50);
+        b[i].setLowerX(15);//(rand() % 25 + 1
+        b[i].setLowerY(20);
     }
 
     int spaceX, spaceY;
@@ -52,7 +52,7 @@ int main()
             a.action(input);
             for (int i = 0; i < numTargets; i++)
             {
-                if (c.surfaceArea(spaceX, spaceY))
+                if (c.surfaceArea(spaceX, spaceY, b[i]))
                 {
                     cout << "Target hit!" << endl;
                     countHit++;
