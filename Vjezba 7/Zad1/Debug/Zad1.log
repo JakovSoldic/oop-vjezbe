@@ -1,0 +1,13 @@
+﻿  Board.cpp
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(13,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(30,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(31,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(32,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(51,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(52,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(53,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Zad1\Board.cpp(54,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Zad1.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba7\Zad1\Debug\Zad1.exe
