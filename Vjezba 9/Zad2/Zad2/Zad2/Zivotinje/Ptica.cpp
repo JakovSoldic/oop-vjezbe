@@ -1,0 +1,3 @@
+#include "Ptica.h"
+#include <iostream>
+using namespace std;
