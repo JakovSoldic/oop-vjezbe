@@ -1,8 +1,8 @@
 #include "Zivotinje.h"
 #include "Brojac.h"
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje\Kukac.h"
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje\Ptica.h"
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje\Pauk.h"
+#include "Zivotinje\Kukac.h"
+#include "Zivotinje\Ptica.h"
+#include "Zivotinje\Pauk.h"
 #include <iostream>
 using namespace std;
 
