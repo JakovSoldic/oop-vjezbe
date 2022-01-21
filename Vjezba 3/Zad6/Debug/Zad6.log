@@ -1,5 +1,0 @@
-﻿  Zad6.cpp
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad6\Zad6\Zad6\Zad6.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad6\Zad6\Zad6\Zad6.cpp(33,6): warning C4101: 'i': unreferenced local variable
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad6\Zad6\Zad6\Zad6.cpp(33,9): warning C4101: 'n': unreferenced local variable
-  Zad6.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba3\Zad6\Zad6\Debug\Zad6.exe
