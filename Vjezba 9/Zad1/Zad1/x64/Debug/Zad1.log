@@ -1,5 +1,0 @@
-﻿  ComputerPlayer.cpp
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad1\Zad1\ComputerPlayer.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad1\Zad1\ComputerPlayer.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad1\Zad1\ComputerPlayer.cpp(37): warning C4715: 'ComputerPlayer::Computer_Input': not all control paths return a value
-  Zad1.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad1\x64\Debug\Zad1.exe
