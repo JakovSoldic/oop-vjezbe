@@ -13,7 +13,7 @@ public:
     void printajVrstu(Zivotinje& z) 
     {
         for (auto i : z.ZivotinjaVrsta)
-            cout<< "dodan: " << i << ' ' << endl;
+            cout<< "Zivotinja: " << i << ' ' << endl;
     }
 
     void dodajNoge(Zivotinje& z)
@@ -23,7 +23,7 @@ public:
 
     void printajNoge()
     {
-        cout << "ukupno nogu: " << sum;
+        cout << "Noge: " << sum;
     }
 };
 #endif
