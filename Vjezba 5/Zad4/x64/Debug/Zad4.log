@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba5\Zad4\Zad4\Zad4\Source.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Zad4.vcxproj -> C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba5\Zad4\Zad4\x64\Debug\Zad4.exe
