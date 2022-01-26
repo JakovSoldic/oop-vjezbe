@@ -10,7 +10,7 @@ class Brojac
 public:
     int sum = 0;
 
-    void printajVrstu(Zivotinje& z) 
+    void printType(Zivotinje& z)
     {
         for (auto i : z.getType())
         {
@@ -18,12 +18,12 @@ public:
         }
     }
 
-    void dodajNoge(Zivotinje& z)
+    void addLegs(Zivotinje& z)
     {
             sum += z.getNumLegs();
     }
 
-    void printajNoge()
+    void printLegs()
     {
         cout << "ukupno nogu: " << sum;
     }

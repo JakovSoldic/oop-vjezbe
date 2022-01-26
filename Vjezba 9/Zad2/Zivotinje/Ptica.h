@@ -1,5 +1,5 @@
 #define PTICA_H
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje.h"
+#include "../Zivotinje.h"
 #include <iostream>
 using namespace std;
 
@@ -12,7 +12,8 @@ public:
 class Vrabac : public Ptica
 {
 public:
-    Vrabac();
+    void giveLegs();
+    void giveType();
     int brojNogu = 2;
     string vrsta = "Vrabac";
 };

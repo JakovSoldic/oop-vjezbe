@@ -9,16 +9,26 @@ using namespace std;
 int main()
 {
 	Zohar zh;
+	zh.giveLegs();
+	zh.giveType();
+
 	Tarantula t;
+	t.giveLegs();
+	t.giveType();
+	
 	Vrabac v;
+	v.giveLegs();
+	v.giveType();
+	
 	Brojac br;
 	Zivotinje z;
-	br.dodajNoge(zh);
-	br.dodajNoge(t);
-	br.dodajNoge(v);
+	
+	br.addLegs(zh);
+	br.addLegs(t);
+	br.addLegs(v);
 
-	br.printajVrstu(t);
-	br.printajVrstu(zh);
-	br.printajVrstu(v);
-	br.printajNoge();
+	br.printType(t);
+	br.printType(zh);
+	br.printType(v);
+	br.printLegs();
 }

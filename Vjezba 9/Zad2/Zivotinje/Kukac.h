@@ -1,6 +1,6 @@
 #pragma once
 #define KUKAC_H
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje.h"
+#include "../Zivotinje.h"
 #include <iostream>
 using namespace std;
 
@@ -13,7 +13,8 @@ public:
 class Zohar : public Kukac
 {
 public:
-    Zohar();
+    void giveLegs();
+    void giveType();
     int brojNogu = 6;
     string vrsta = "Zohar";
 };
