@@ -1,7 +1,7 @@
 #pragma once
 #ifndef BROJAC_H
 #define BROJAC_H
-#include "C:\Users\Jake\Desktop\Jakov Soldic Progra\VisualStudio\Vjezba9\Zad2\Zad2\Zad2\Zivotinje.h"
+#include "Zivotinje.h"
 #include <iostream>
 using namespace std;
 
@@ -12,18 +12,20 @@ public:
 
     void printajVrstu(Zivotinje& z) 
     {
-        for (auto i : z.ZivotinjaVrsta)
-            cout<< "Zivotinja: " << i << ' ' << endl;
+        for (auto i : z.getType())
+        {
+            cout << "dodan: " << i << ' ' << endl;
+        }
     }
 
     void dodajNoge(Zivotinje& z)
     {
-            sum += z.getBrojNogu();
+            sum += z.getNumLegs();
     }
 
     void printajNoge()
     {
-        cout << "Noge: " << sum;
+        cout << "ukupno nogu: " << sum;
     }
 };
 #endif

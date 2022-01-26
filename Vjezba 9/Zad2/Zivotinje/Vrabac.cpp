@@ -5,6 +5,6 @@ using namespace std;
 
 Vrabac::Vrabac()
 {
-    setBrojNogu(brojNogu);
-    setVrsta(vrsta);
+    setNumLegs(brojNogu);
+    setType(vrsta);
 }

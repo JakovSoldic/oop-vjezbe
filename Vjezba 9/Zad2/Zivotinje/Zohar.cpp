@@ -5,6 +5,6 @@ using namespace std;
 
 Zohar::Zohar()
 {
-    setBrojNogu(brojNogu);
-    setVrsta(vrsta);
+    setNumLegs(brojNogu);
+    setType(vrsta);
 }

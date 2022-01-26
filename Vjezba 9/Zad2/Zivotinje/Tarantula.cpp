@@ -5,6 +5,6 @@ using namespace std;
 
 Tarantula::Tarantula()
 {
-    setBrojNogu(brojNogu);
-    setVrsta(vrsta);
+    setNumLegs(brojNogu);
+    setType(vrsta);
 }

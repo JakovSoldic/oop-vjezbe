@@ -11,22 +11,22 @@ public:
 	vector <string> ZivotinjaVrsta;
     int ZivotinjeNoge = 0;
     
-    int getBrojNogu() 
+    int getNumLegs() 
     {
         return ZivotinjeNoge;
     }
 
-    vector <string> getVrsta() 
+    vector <string> getType() 
     {
         return ZivotinjaVrsta;
     }
 
-    void setBrojNogu(int brojNogu) 
+    void setNumLegs(int brojNogu) 
     {
         ZivotinjeNoge = brojNogu;
     }
 
-    void setVrsta(string vrsta)
+    void setType(string vrsta)
     {
         ZivotinjaVrsta.push_back(vrsta);
     }
